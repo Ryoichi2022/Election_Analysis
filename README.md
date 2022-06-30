@@ -28,4 +28,4 @@ Once the modification is implemented, the process would be used for different el
 
 (Figure 1)
 Election results printed to terminal
-![]()
+![](https://github.com/Ryoichi2022/Election_Analysis/blob/main/Election%20Results%20-%20Terminal.PNG)
