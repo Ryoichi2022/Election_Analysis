@@ -25,7 +25,7 @@ As a result, Diana DeGette won the election with 272,892, or 73.8% of votes. The
 In the process, the vote data is expected to be in csv format and include ballot ID, county, and candidate for each vote. As long as the csv contains these items, the automated process will work for other elections to generate the result report.
 
 ### Potential Modification
-One potential modification could be made to summarize the result for each county to identify the candidate that has won the election in the county. This modification will be able to present results of the same type of election (sheriff of A County, sheriff of B County, and so forth) in multiple counties altogether.
+One potential modification could be made to summarize the result for each county to identify the candidate that has won the election in the county. This modification will be able to present results of the same type of election in multiple counties altogether (sheriff of A County, sheriff of B County, and so forth).
 
 Once the modification is implemented, the process would be used for different elections in each county by replacing the county with election type such as sheriff, mayor, and school board. Then, the result of multiple elections will be available at once after the election results csv data is ready for the automated process.
 
