@@ -9,8 +9,8 @@ Votes were cast through mail-in ballot, punch cards, or direct recording electro
 ## 2. Election Audit Results
 369,711 votes were cast in total in the election, consisting of the following number of votes and the percentage of total votes in each county:
 - Jefferson County: 38,855 / 10.5%
-- Denver County:    306,055 / 82.8%
-- Arapahoe County:  24,801 / 6.7%
+- Denver County: 306,055 / 82.8%
+- Arapahoe County: 24,801 / 6.7%
 - The largest number of votes were cast in Denver County.
 
 Each candidates received the number of votes and the percentage of the total votes as follows:
@@ -30,5 +30,7 @@ One potential modification could be made to summarize the result for each county
 Once the modification is implemented, the process would be used for different elections in each county by replacing the county with election type such as sheriff, mayor, and school board. Then, the result of multiple elections will be available at once after the election results csv data is ready for the automated process.
 
 (Figure 1)
+
 Election results printed to terminal
+
 ![](https://github.com/Ryoichi2022/Election_Analysis/blob/main/Election%20Results%20-%20Terminal.PNG)
