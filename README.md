@@ -29,7 +29,6 @@ One potential modification could be made to summarize the result for each county
 
 Once the modification is implemented, the process would be used for different elections in each county by replacing the county with election type such as sheriff, mayor, and school board. Then, the result of multiple elections will be available at once after the election results csv data is ready for the automated process.
 
-(Figure 1)
-Election results printed to terminal
+(Figure 1) Election results printed to terminal
 
 ![](https://github.com/Ryoichi2022/Election_Analysis/blob/main/Election%20Results%20-%20Terminal.PNG)
